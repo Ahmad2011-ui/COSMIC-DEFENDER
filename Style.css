@@ -228,6 +228,6 @@ p {
     border-radius: 0;
     box-shadow: none;
     font-size: 2rem;
-    animation: fadeIn 0.5s;
-}
+    animation: fadeIn
+
 
